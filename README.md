@@ -4,8 +4,7 @@ GR4DP 1.5 is a general-purpose AGI model integrating logic, autocatalysis, auto 
 
 ## Prerequisites
 - Hardware: 4 NVIDIA RTX 3080 GPUs (10 GB VRAM each), 2 16-core CPUs, 128 GB RAM, 4 TB NVMe SSD.
-- Software: Ubuntu 22.04 LTS, GCC, NASM, SBCL, Lua 5.4, Go 1.21, Node.js 20, Kubernetes 1.28, Docker, OpenSSL, PyTorch C++ API, Redis.
-- Dataset: 1.7M samples (100,000 images, 1.5M text tokens, 100,000 puzzles).
+- Software: Ubuntu 22.04 LTS, GCC, NASM, SBCL, Lua 5.4, Go 1.21, Node.js 20, Kubernetes 1.28, Docker, OpenSSL, PyTorch C++ API, Redis
 
 ## Setup
 1. Clone the repository:
